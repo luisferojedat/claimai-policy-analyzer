@@ -1,0 +1,8 @@
+# CELDA 15 — Código: Crear `requirements.txt`
+# Generamos el archivo `requirements.txt` con las dependencias exactas.
+
+gradio
+google-generativeai
+pypdf
+python-docx
+python-dotenv
